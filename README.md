@@ -104,6 +104,4 @@ Replace the `get_simple_embedding` call with `get_embedding` in `deduplicate_des
 Each frame = ~1 Claude API call ≈ $0.001–$0.003
 - 10-min video at 0.5 FPS = ~300 frames ≈ ~$0.30–$0.90
 
-## License
 
-MIT — free to use and modify.
