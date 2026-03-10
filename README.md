@@ -1,6 +1,6 @@
 # 🎬 Video2Text — Frame-by-Frame Intelligence
 
-Convert any video into a timestamped text transcript using Claude AI vision.
+Convert any video into a timestamped text transcript.
 
 ## What It Does
 
